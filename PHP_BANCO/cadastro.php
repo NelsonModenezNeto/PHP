@@ -17,7 +17,7 @@
 
         #warning {
             color: orange;
-            font-weight: bold;
+              font-weight: bold;
         }
 
     </style>
@@ -62,9 +62,10 @@
 
 <?php  if($_SERVER["REQUEST_METHOD"]){
     try{
-        $ra = '';
-        $nome = '';
-        $curso = '';
+        $ra = $_POST["ra"];
+        $nome = $_POST["nome"];
+        $curso = $_POST["curso"];
+
         if ((trim($ra)== "") || (trim($nome) == "")){
             echo "<span id='warning'>RA e nome são obrigátorios!</span?";
         }else{
@@ -81,7 +82,11 @@
                 $stm = bindParam(':ra', $ra);
                 $stm = bindParam(':nome', $ra);
                 $stm = bindParam(':curso', $ra);
+                $stmt -> execute();
 
+                echo "<span id ='sucess'>Aluno Cadastrado!</span>";
+            } else {
+                echo "<span id ='error'>Ra já existente!</span>";
             }
         }
 
@@ -90,7 +95,7 @@
         $output  = 'Impossível conectar com BD :' . $e . '<br>';
         echo $output;
     }
-
+    $pdo = null;
 }
 ?>
    
