@@ -17,7 +17,7 @@
 
                 <div class="d-grid gap-2 ">
                     <h1 class="text-center">GERENCIAMENTO</h1>
-                    <button type="button" class="btn" style="background-color: rgb(255, 94, 30); color: white">
+                    <button type="button" onclick="window.open('cadastra.php', '_top');" class="btn" style="background-color: rgb(255, 94, 30); color: white">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor"
                             class="bi bi-plus-square-fill" viewBox="0 0 16 16">
                             <path

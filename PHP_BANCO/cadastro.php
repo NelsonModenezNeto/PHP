@@ -77,7 +77,7 @@
 
             $rows = $stmt -> rowCont();
 
-            if(rwos <= 0){
+            if(rows <= 0){
                 $stmt = $pdo -> prepare("insert into alunos_php (ra, nome, curso) values(:ra, :nome, :curso)");
                 $stm = bindParam(':ra', $ra);
                 $stm = bindParam(':nome', $ra);
