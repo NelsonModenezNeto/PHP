@@ -1,0 +1,186 @@
+idPatrimonio,marca,modelo,tipo
+1,Logitech,Dell,Notebook
+6,HP,hp698,Impressora
+8,LG,Ultrawide,Impressora
+10,HP,r3,Monitor
+12,Lenovo,rerer,Monitor
+36,Lenovo,rere,Monitor
+1051,logi,nii,Desktop
+1053,Lenovo,"ThinkPad X1 Yoga",Impressora
+1062,LG,27MK600M,Monitor
+1064,Asus,VG279Q,Monitor
+1065,Dell,"Latitude 5420",Notebook
+1066,HP,"EliteBook 830 G8",Notebook
+1067,Lenovo,"ThinkPad T14s",Notebook
+1068,Apple,"MacBook Pro M1",Notebook
+1074,Microsoft,"Modern Keyboard",Acessório
+1076,LG,24MK400H,Monitor
+1081,Lenovo,"ThinkPad L14",Notebook
+1083,Dell,"OptiPlex 9020",Desktop
+1085,Lenovo,"ThinkCentre M710",Desktop
+1086,Apple,"Mac Pro",Desktop
+1088,Microsoft,"Surface Pen",Acessório
+1089,Dell,"Ultrasharp U3419W",Monitor
+1090,LG,34WL500-B,Monitor
+1091,Dell,"Latitude 7400",Notebook
+1093,Lenovo,"ThinkPad X1 Yoga",Notebook
+1094,Apple,"MacBook Air",Notebook
+1095,Dell,"OptiPlex 7010",Desktop
+1096,HP,"ProDesk 400 G7",Desktop
+1097,Lenovo,"ThinkCentre M920",Desktop
+1098,Apple,"Mac Mini",Desktop
+1099,Logitech,K380,Acessório
+1100,Microsoft,"Surface Mouse",Acessório
+1101,Dell,"Ultrasharp U2719D",Monitor
+1102,LG,27MK600M,Monitor
+1103,Samsung,C27F390,Monitor
+1104,Asus,VG279Q,Monitor
+1105,Dell,"Latitude 5420",Notebook
+1106,HP,"EliteBook 830 G8",Notebook
+1107,Lenovo,"ThinkPad T14s",Notebook
+1108,Apple,"MacBook Pro M1",Notebook
+1109,Dell,"OptiPlex 3060",Desktop
+1110,HP,"ProDesk 800 G8",Desktop
+1111,Lenovo,"ThinkCentre M625",Desktop
+1112,Apple,"iMac Pro",Desktop
+1113,Logitech,"MX Anywhere 3",Acessório
+1114,Microsoft,"Modern Keyboard",Acessório
+1115,Dell,"Ultrasharp U2419H",Monitor
+1116,LG,24MK400H,Monitor
+1117,Samsung,S27A350H,Monitor
+1118,Asus,VG245H,Monitor
+1119,Dell,"Latitude 7320",Notebook
+1120,HP,"EliteBook 1050 G2",Notebook
+1121,Lenovo,"ThinkPad L14",Notebook
+1122,Apple,"MacBook Pro 16",Notebook
+1123,Dell,"OptiPlex 9020",Desktop
+1124,HP,"ProDesk 600 G6",Desktop
+1125,Lenovo,"ThinkCentre M710",Desktop
+1126,Apple,"Mac Pro",Desktop
+1127,Logitech,K780,Acessório
+1128,Microsoft,"Surface Pen",Acessório
+1129,Dell,"Ultrasharp U3419W",Monitor
+1130,LG,34WL500-B,Monitor
+1131,Dell,"Latitude 7400",Notebook
+1132,HP,"EliteBook 850 G7",Notebook
+1133,Lenovo,"ThinkPad X1 Yoga",Notebook
+1134,Apple,"MacBook Air",Notebook
+1135,Dell,"OptiPlex 7010",Desktop
+1136,HP,"ProDesk 400 G7",Desktop
+1137,Lenovo,"ThinkCentre M920",Desktop
+1138,Apple,"Mac Mini",Desktop
+1139,Logitech,K380,Acessório
+1140,Microsoft,"Surface Mouse",Acessório
+1141,Dell,"Ultrasharp U2719D",Monitor
+1142,LG,27MK600M,Monitor
+1143,Samsung,C27F390,Monitor
+1144,Asus,VG279Q,Monitor
+1145,Dell,"Latitude 5420",Notebook
+1146,HP,"EliteBook 830 G8",Notebook
+1147,Lenovo,"ThinkPad T14s",Notebook
+1148,Apple,"MacBook Pro M1",Notebook
+1149,Dell,"OptiPlex 3060",Desktop
+1150,HP,"ProDesk 800 G8",Desktop
+1151,Lenovo,"ThinkCentre M625",Desktop
+1152,Apple,"iMac Pro",Desktop
+1153,Logitech,"MX Anywhere 3",Acessório
+1154,Microsoft,"Modern Keyboard",Acessório
+1155,Dell,"Ultrasharp U2419H",Monitor
+1156,LG,24MK400H,Monitor
+1157,Samsung,S27A350H,Monitor
+1158,Asus,VG245H,Monitor
+1159,Dell,"Latitude 7320",Notebook
+1160,HP,"EliteBook 1050 G2",Notebook
+1161,Lenovo,"ThinkPad L14",Notebook
+1162,Apple,"MacBook Pro 16",Notebook
+1163,Dell,"OptiPlex 9020",Desktop
+1164,HP,"ProDesk 600 G6",Desktop
+1165,Lenovo,"ThinkCentre M710",Desktop
+1166,Apple,"Mac Pro",Desktop
+1167,Logitech,K780,Acessório
+1168,Microsoft,"Surface Pen",Acessório
+1169,Dell,"Ultrasharp U3419W",Monitor
+1170,LG,34WL500-B,Monitor
+1171,Dell,"Latitude 7400",Notebook
+1172,HP,"EliteBook 850 G7",Notebook
+1173,Lenovo,"ThinkPad X1 Yoga",Notebook
+1174,Apple,"MacBook Air",Notebook
+1175,Dell,"OptiPlex 7010",Desktop
+1176,HP,"ProDesk 400 G7",Desktop
+1177,Lenovo,"ThinkCentre M920",Desktop
+1178,Apple,"Mac Mini",Desktop
+1179,Logitech,K380,Acessório
+1180,Microsoft,"Surface Mouse",Acessório
+1181,Dell,"Ultrasharp U2719D",Monitor
+1182,LG,27MK600M,Monitor
+1183,Samsung,C27F390,Monitor
+1184,Asus,VG279Q,Monitor
+1185,Dell,"Latitude 5420",Notebook
+1186,HP,"EliteBook 830 G8",Notebook
+1187,Lenovo,"ThinkPad T14s",Notebook
+1188,Apple,"MacBook Pro M1",Notebook
+1189,Dell,"OptiPlex 3060",Desktop
+1190,HP,"ProDesk 800 G8",Desktop
+1191,Lenovo,"ThinkCentre M625",Desktop
+1192,Apple,"iMac Pro",Desktop
+1193,Logitech,"MX Anywhere 3",Acessório
+1194,Microsoft,"Modern Keyboard",Acessório
+1195,Dell,"Ultrasharp U2419H",Monitor
+1196,LG,24MK400H,Monitor
+1197,Samsung,S27A350H,Monitor
+1198,Asus,VG245H,Monitor
+1199,Dell,"Latitude 7320",Notebook
+1200,HP,"EliteBook 1050 G2",Notebook
+1201,Lenovo,"ThinkPad L14",Notebook
+1202,Apple,"MacBook Pro 16",Notebook
+1203,Dell,"OptiPlex 9020",Desktop
+1204,HP,"ProDesk 600 G6",Desktop
+1205,Lenovo,"ThinkCentre M710",Desktop
+1206,Apple,"Mac Pro",Desktop
+1207,Logitech,K780,Acessório
+1208,Microsoft,"Surface Pen",Acessório
+1209,Dell,"Ultrasharp U3419W",Monitor
+1210,LG,34WL500-B,Monitor
+1211,Dell,"Latitude 7400",Notebook
+1212,HP,"EliteBook 850 G7",Notebook
+1213,Lenovo,"ThinkPad X1 Yoga",Notebook
+1214,Apple,"MacBook Air",Notebook
+1215,Dell,"OptiPlex 7010",Desktop
+1216,HP,"ProDesk 400 G7",Desktop
+1217,Lenovo,"ThinkCentre M920",Desktop
+1218,Apple,"Mac Mini",Desktop
+1219,Logitech,K380,Acessório
+1220,Microsoft,"Surface Mouse",Acessório
+1221,Dell,"Ultrasharp U2719D",Monitor
+1222,LG,27MK600M,Monitor
+1223,Samsung,C27F390,Monitor
+1224,Asus,VG279Q,Monitor
+1225,Dell,"Latitude 5420",Notebook
+1226,HP,"EliteBook 830 G8",Notebook
+1227,Lenovo,"ThinkPad T14s",Notebook
+1228,Apple,"MacBook Pro M1",Notebook
+1229,Dell,"OptiPlex 3060",Desktop
+1230,HP,"ProDesk 800 G8",Desktop
+1231,Lenovo,"ThinkCentre M625",Desktop
+1232,Apple,"iMac Pro",Desktop
+1233,Logitech,"MX Anywhere 3",Acessório
+1235,Dell,"Ultrasharp U2419H",Monitor
+1236,LG,24MK400H,Monitor
+1237,Samsung,S27A350H,Monitor
+1238,Asus,VG245H,Monitor
+1239,Dell,"Latitude 7320",Notebook
+1240,HP,"EliteBook 1050 G2",Notebook
+1241,Lenovo,"ThinkPad L14",Notebook
+1242,Apple,"MacBook Pro 16",Notebook
+2051,Dell,"Latitude 7490",Notebook
+2053,Lenovo,"ThinkPad X1 Carbon",Notebook
+2054,Apple,"MacBook Pro",Notebook
+2055,Dell,"OptiPlex 7070",Desktop
+2056,HP,"ProDesk 600 G9",Desktop
+2057,Lenovo,"ThinkCentre M930",Desktop
+2058,Apple,"iMac 27""",Desktop
+2059,Logitech,"MX Keys",Acessório
+2060,Microsoft,"Surface Ergonomic Keyboard",Acessório
+2061,Dell,"Ultrasharp U3219Q",Monitor
+2062,LG,27GN950-B,Monitor
+8542,Sony,S1,Notebook
